@@ -25,8 +25,13 @@ These are not pre-requisites; they are the theoretical background for all the re
 ## Reinforcement Learning
 
 - [David Silver / Introduction to Reinforcement Learning / UCL](https://www.youtube.com/watch?v=2pWv7GOvuf0): value iteration, policy iteration, Q learning, Monte Carlo tree search
-- Deep RL bootcamp
-- udacity Deep RL nanodegree
+- [Deep RL Bootcamp](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos)
+- [Deep RL nanodegree / Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) ($$$)
+
+Deep reinforcement learning is notoriously finicky. Read these blog posts to set your expectations:
+
+- [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl) ([hacker news](https://news.ycombinator.com/item?id=16792479))
+- [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) ([hacker news](https://news.ycombinator.com/item?id=16383264))
 
 ## Papers
 
