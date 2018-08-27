@@ -10,7 +10,7 @@ These are not pre-requisites; they are the theoretical background for all the re
     - [Hastie and Tibshirani / Statistical Learning / Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about): non deep ML – k-means, linear and logistic regression, decision trees, boosting, cross validation, etc.
     - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (the textbook that goes with the above)
 - Information theory
-    - [David MacKay / Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY): capacity of a noisy channel, Bayesian inference, clustering
+    - [David MacKay / Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY): capacity of a noisy channel, Bayesian inference, clustering, Monte Carlo and variational sampling, neural networks
 - Bayesian inference
     - [D Sivia, J Skilling / Data Analysis: A Bayesian Tutorial](https://www.amazon.com/Data-Analysis-Bayesian-Devinderjit-Sivia/dp/0198568320) (textbook)
 - Deep learning
