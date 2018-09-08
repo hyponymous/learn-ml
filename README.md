@@ -37,6 +37,10 @@ Deep reinforcement learning is notoriously finicky. Read these blog posts to set
 
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/): paper recommender system
 
+## Best Practices
+
+- [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf): best practices in machine learning at Google from a Google research scientist
+
 ## Curriculum
 
 This is really up to you, but as a first stab I'd suggest:
